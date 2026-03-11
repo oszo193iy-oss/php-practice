@@ -99,3 +99,4 @@ $date2 = new DateTime('1992-04-25');
 $interval = $date1 -> diff($date2);
 
 echo 'あの日から' . $interval -> days . '日経過しました。';
+
